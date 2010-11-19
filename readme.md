@@ -29,12 +29,12 @@ To disable:
 
 /rocku disable
 
--------
-Project Page:
-<http://reforged.posterous.com/rock-you-like-a-hurricane-addon>
+Links
+-----
 
-Github:
-<https://github.com/ronbo/Mstree-s--Rock-You-Like-a-Hurricane--Addon>
+[Project Page](http://reforged.posterous.com/rock-you-like-a-hurricane-addon)
+
+[Github Page](https://github.com/ronbo/Mstree-s--Rock-You-Like-a-Hurricane--Addon)
 
 [Reforged Guild](http://www.reforged.dkpsystem.com)
-Late-night raids on Runetotem US
+ - Late-night raids on Runetotem US
