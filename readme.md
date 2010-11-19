@@ -1,6 +1,8 @@
 Mstree's 'Rock You Like a Hurricane' addon
 ==========================================
 
+![Hurricane](http://img.skitch.com/20101117-edjkbs9wxbjx47aqxudfrpwcph.png)
+
 A World of Warcraft UI Addon for Druids and those that love them.
 
 Plays a riff from The Scorpions' "Rock You Like a Hurricane" whenever anyone in the Party/Raid casts Hurricane.
@@ -31,3 +33,4 @@ Project Page:
 <http://reforged.posterous.com/rock-you-like-a-hurricane-addon>
 
 Github:
+<https://github.com/ronbo/Mstree-s--Rock-You-Like-a-Hurricane--Addon>
