@@ -7,6 +7,8 @@ A World of Warcraft UI Addon for Druids and those that love them.
 
 Plays a riff from The Scorpions' "Rock You Like a Hurricane" whenever anyone in the Party/Raid casts Hurricane.
 
+> I laughed, I cried, this add-on became a part of me \- *Skree, Reforged Hunter*
+
 Based on Shrugal's [ATeam Addon](http://wow.curse.com/downloads/wow-addons/details/ateam.aspx)
 
 Install
@@ -21,11 +23,11 @@ Commands
 
 Type these commands in your chat window.
 
-##To enable:##
+###To enable:##
 
     /rocku enable 
 
-##To disable:##
+###To disable:##
 
     /rocku disable
 
@@ -38,7 +40,6 @@ Links
 
 [Curse Page](http://wow.curse.com/downloads/wow-addons/details/rocku.aspx)
 
-[Reforged Guild](http://www.reforged.dkpsystem.com)
- - Late-night raids on Runetotem US 
+[Reforged Guild](http://www.reforged.dkpsystem.com) \-Late-night raids on Runetotem US 
 
 *Edit: Sadly Reforged Guild is no longer -ronbo*
