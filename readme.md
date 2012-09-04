@@ -40,3 +40,4 @@ Links
 
 [Reforged Guild](http://www.reforged.dkpsystem.com)
  - Late-night raids on Runetotem US
+Edit: Sadly Reforged Guild is no longer -RJ
