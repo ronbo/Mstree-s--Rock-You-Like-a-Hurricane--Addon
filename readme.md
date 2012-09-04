@@ -21,13 +21,13 @@ Commands
 
 Type these commands in your chat window.
 
-To enable:
+##To enable:##
 
-/rocku enable 
+    /rocku enable 
 
-To disable:
+##To disable:##
 
-/rocku disable
+    /rocku disable
 
 Links
 -----
@@ -41,4 +41,4 @@ Links
 [Reforged Guild](http://www.reforged.dkpsystem.com)
  - Late-night raids on Runetotem US 
 
-*Edit: Sadly Reforged Guild is no longer -RJ*
+*Edit: Sadly Reforged Guild is no longer -ronbo*
