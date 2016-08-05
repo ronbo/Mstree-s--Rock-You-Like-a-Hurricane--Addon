@@ -40,6 +40,4 @@ Links
 
 [Curse Page](http://wow.curse.com/downloads/wow-addons/details/rocku.aspx)
 
-[Reforged Guild](http://www.reforged.dkpsystem.com) \-Late-night raids on Runetotem US 
-
-*Edit: Sadly Reforged Guild is no longer -ronbo*
+[Reforged Guild](http://reforged.net) \-Late-night raids on Runetotem US 
