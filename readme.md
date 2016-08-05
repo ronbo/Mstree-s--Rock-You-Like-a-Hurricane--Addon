@@ -40,4 +40,6 @@ Links
 
 [Curse Page](http://wow.curse.com/downloads/wow-addons/details/rocku.aspx)
 
+[Curseforge Page](https://wow.curseforge.com/addons/rocku/)
+
 [Reforged Guild](http://reforged.net) \-Late-night raids on Runetotem US 
