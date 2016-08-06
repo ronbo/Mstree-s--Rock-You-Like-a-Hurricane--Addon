@@ -1,7 +1,7 @@
 Mstree's 'Rock You Like a Hurricane' addon
 ==========================================
 
-![Hurricane](http://img.skitch.com/20101117-edjkbs9wxbjx47aqxudfrpwcph.png)
+![Hurricane](/readme-assets/hurricane.png)
 
 A World of Warcraft UI Addon for Druids and those that love them.
 
